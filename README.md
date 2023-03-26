@@ -13,7 +13,7 @@ This repository is a collection of works to display my knowledge in the areas of
         <th>Languages</th>
         <th>Development Environments</th>
         <th>Frameworks</th>
-    <tr>
+    </tr>
 
 </table>
 
