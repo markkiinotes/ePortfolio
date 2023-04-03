@@ -163,7 +163,9 @@ body {
 	text-align: left;
 }
 
-.gradientBubble{}
+.gradientBubble{
+    
+}
 
 #bubble {
 	position: relative;
