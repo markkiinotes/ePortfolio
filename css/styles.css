@@ -58,11 +58,12 @@ body {
 }
 
 #summary{
-	margin-left: 73px;
+	padding-left: 70px;
 	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
 	text-indent: 15px;
 	margin-top: 25px;
 	margin-bottom: 25px;
+    padding-right: 70px;
 }
 
 #education{
@@ -85,7 +86,7 @@ body {
 }
 
 #education_list{
-	margin-left: 75px;    
+	padding-left: 70px;    
 }
 
 #experience_banner{
@@ -105,6 +106,16 @@ body {
 	text-shadow: 1px 1px 2px;
 	-webkit-box-shadow: 2px 2px 4px 0px #41646B;
 	box-shadow: 2px 2px 4px 0px #41646B;
+}
+
+#experience{
+    padding-left: 70px;
+    padding-right: 70px;
+}
+
+#h_project_images img{
+    height: 200px;
+    padding-left: 130px;
 }
 
 #skills{
