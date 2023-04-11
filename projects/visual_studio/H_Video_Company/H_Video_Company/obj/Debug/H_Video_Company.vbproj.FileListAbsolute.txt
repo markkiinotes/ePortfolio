@@ -1,0 +1,32 @@
+C:\Users\Harrison\OneDrive\CPT185\H_Video_Company\H_Video_Company\H_Video_Company\bin\Debug\H_Video_Company.exe.config
+C:\Users\Harrison\OneDrive\CPT185\H_Video_Company\H_Video_Company\H_Video_Company\obj\Debug\H_Video_Company.vbprojResolveAssemblyReference.cache
+C:\Users\Harrison\OneDrive\CPT185\H_Video_Company\H_Video_Company\H_Video_Company\obj\Debug\BaseForm.BaseForm.resources
+C:\Users\Harrison\OneDrive\CPT185\H_Video_Company\H_Video_Company\H_Video_Company\obj\Debug\BaseForm.Resources.resources
+C:\Users\Harrison\OneDrive\CPT185\H_Video_Company\H_Video_Company\H_Video_Company\obj\Debug\H_Video_Company.vbproj.GenerateResource.Cache
+C:\Users\Harrison\OneDrive\CPT185\H_Video_Company\H_Video_Company\H_Video_Company\obj\Debug\H_Video_Company.xml
+C:\Users\Harrison\OneDrive\CPT185\H_Video_Company\H_Video_Company\H_Video_Company\bin\Debug\H_Video_Company.exe
+C:\Users\Harrison\OneDrive\CPT185\H_Video_Company\H_Video_Company\H_Video_Company\bin\Debug\H_Video_Company.pdb
+C:\Users\Harrison\OneDrive\CPT185\H_Video_Company\H_Video_Company\H_Video_Company\bin\Debug\H_Video_Company.xml
+C:\Users\Harrison\OneDrive\CPT185\H_Video_Company\H_Video_Company\H_Video_Company\obj\Debug\H_Video_Company.exe
+C:\Users\Harrison\OneDrive\CPT185\H_Video_Company\H_Video_Company\H_Video_Company\obj\Debug\H_Video_Company.pdb
+C:\Users\Harrison\OneDrive\CPT185\H_Video_Company\H_Video_Company\H_Video_Company\obj\Debug\BaseForm.About.resources
+C:\Users\Harrison\OneDrive\CPT185\H_Video_Company\H_Video_Company\H_Video_Company\obj\Debug\BaseForm.H_Video_Splash.resources
+C:\Users\Harrison\OneDrive\CPT185\H_Video_Company\H_Video_Company\H_Video_Company\obj\Debug\BaseForm.Main.resources
+C:\Users\Harrison\OneDrive\CPT185\H_Video_Company\H_Video_Company\H_Video_Company\obj\Debug\BaseForm.Rentals.resources
+C:\Users\Harrison\OneDrive\CPT185\H_Video_Company\H_Video_Company\H_Video_Company\obj\Debug\BaseForm.Studio.resources
+C:\Users\Harrison\OneDrive\CPT185\H_Video_Company\H_Video_Company\H_Video_Company\obj\Debug\BaseForm.Video.resources
+C:\Users\Harrison\OneDrive\CPT185\H_Video_Company\H_Video_Company\H_Video_Company\bin\Debug\VBVideo.accdb
+C:\Users\markk\OneDrive - SNHU\CPT185\H_Video_Company\H_Video_Company\H_Video_Company\bin\Debug\H_Video_Company.exe
+C:\Users\markk\OneDrive - SNHU\CPT185\H_Video_Company\H_Video_Company\H_Video_Company\bin\Debug\H_Video_Company.pdb
+C:\Users\markk\OneDrive - SNHU\CPT185\H_Video_Company\H_Video_Company\H_Video_Company\obj\Debug\H_Video_Company.vbproj.AssemblyReference.cache
+C:\Users\markk\OneDrive - SNHU\CPT185\H_Video_Company\H_Video_Company\H_Video_Company\obj\Debug\H_Video_Company.vbproj.SuggestedBindingRedirects.cache
+C:\Users\markk\OneDrive - SNHU\CPT185\H_Video_Company\H_Video_Company\H_Video_Company\obj\Debug\BaseForm.About.resources
+C:\Users\markk\OneDrive - SNHU\CPT185\H_Video_Company\H_Video_Company\H_Video_Company\obj\Debug\BaseForm.BaseForm.resources
+C:\Users\markk\OneDrive - SNHU\CPT185\H_Video_Company\H_Video_Company\H_Video_Company\obj\Debug\BaseForm.H_Video_Splash.resources
+C:\Users\markk\OneDrive - SNHU\CPT185\H_Video_Company\H_Video_Company\H_Video_Company\obj\Debug\BaseForm.Main.resources
+C:\Users\markk\OneDrive - SNHU\CPT185\H_Video_Company\H_Video_Company\H_Video_Company\obj\Debug\BaseForm.Resources.resources
+C:\Users\markk\OneDrive - SNHU\CPT185\H_Video_Company\H_Video_Company\H_Video_Company\obj\Debug\BaseForm.Rentals.resources
+C:\Users\markk\OneDrive - SNHU\CPT185\H_Video_Company\H_Video_Company\H_Video_Company\obj\Debug\BaseForm.Studio.resources
+C:\Users\markk\OneDrive - SNHU\CPT185\H_Video_Company\H_Video_Company\H_Video_Company\obj\Debug\BaseForm.Video.resources
+C:\Users\markk\OneDrive - SNHU\CPT185\H_Video_Company\H_Video_Company\H_Video_Company\obj\Debug\H_Video_Company.vbproj.GenerateResource.cache
+C:\Users\markk\OneDrive - SNHU\CPT185\H_Video_Company\H_Video_Company\H_Video_Company\obj\Debug\H_Video_Company.vbproj.CoreCompileInputs.cache
